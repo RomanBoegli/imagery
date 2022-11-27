@@ -1,0 +1,78 @@
+{
+  "order": [
+    "Adelaide_00001.jpeg",
+    "Adelaide_00002.jpeg",
+    "Adelaide_00003.jpeg",
+    "Adelaide_00004.jpeg",
+    "Adelaide_00005.jpeg",
+    "Adelaide_00006.jpeg",
+    "Adelaide_00007.jpeg",
+    "Adelaide_00008.jpeg",
+    "Adelaide_00009.jpeg"
+  ],
+  "dict": {
+    "Adelaide_00001.jpeg": {
+      "type": "photo",
+      "width": 3635,
+      "height": 2726,
+      "path": "./photos/Australia/Adelaide/Adelaide_00001.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00001.min.jpeg"
+    },
+    "Adelaide_00002.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Adelaide/Adelaide_00002.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00002.min.jpeg"
+    },
+    "Adelaide_00003.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Adelaide/Adelaide_00003.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00003.min.jpeg"
+    },
+    "Adelaide_00004.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Adelaide/Adelaide_00004.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00004.min.jpeg"
+    },
+    "Adelaide_00005.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Adelaide/Adelaide_00005.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00005.min.jpeg"
+    },
+    "Adelaide_00006.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Adelaide/Adelaide_00006.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00006.min.jpeg"
+    },
+    "Adelaide_00007.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Adelaide/Adelaide_00007.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00007.min.jpeg"
+    },
+    "Adelaide_00008.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Adelaide/Adelaide_00008.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00008.min.jpeg"
+    },
+    "Adelaide_00009.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Adelaide/Adelaide_00009.jpeg",
+      "min_path": "./photos/Australia/Adelaide/Adelaide_00009.min.jpeg"
+    }
+  }
+}

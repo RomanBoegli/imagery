@@ -1,0 +1,110 @@
+{
+  "order": [
+    "FraserIsland_00001.jpeg",
+    "FraserIsland_00002.jpeg",
+    "FraserIsland_00003.jpeg",
+    "FraserIsland_00004.jpeg",
+    "FraserIsland_00005.jpeg",
+    "FraserIsland_00006.jpeg",
+    "FraserIsland_00007.jpeg",
+    "FraserIsland_00008.jpeg",
+    "FraserIsland_00009.jpeg",
+    "FraserIsland_00010.jpeg",
+    "FraserIsland_00011.jpeg",
+    "FraserIsland_00012.jpeg",
+    "FraserIsland_00013.jpeg"
+  ],
+  "dict": {
+    "FraserIsland_00001.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00001.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00001.min.jpeg"
+    },
+    "FraserIsland_00002.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00002.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00002.min.jpeg"
+    },
+    "FraserIsland_00003.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00003.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00003.min.jpeg"
+    },
+    "FraserIsland_00004.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00004.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00004.min.jpeg"
+    },
+    "FraserIsland_00005.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00005.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00005.min.jpeg"
+    },
+    "FraserIsland_00006.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00006.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00006.min.jpeg"
+    },
+    "FraserIsland_00007.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00007.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00007.min.jpeg"
+    },
+    "FraserIsland_00008.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00008.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00008.min.jpeg"
+    },
+    "FraserIsland_00009.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00009.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00009.min.jpeg"
+    },
+    "FraserIsland_00010.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00010.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00010.min.jpeg"
+    },
+    "FraserIsland_00011.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00011.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00011.min.jpeg"
+    },
+    "FraserIsland_00012.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00012.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00012.min.jpeg"
+    },
+    "FraserIsland_00013.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00013.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00013.min.jpeg"
+    }
+  }
+}

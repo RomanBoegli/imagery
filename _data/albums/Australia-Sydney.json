@@ -1,0 +1,230 @@
+{
+  "order": [
+    "Sydney_00001.jpeg",
+    "Sydney_00002.jpeg",
+    "Sydney_00003.jpeg",
+    "Sydney_00004.jpeg",
+    "Sydney_00005.jpeg",
+    "Sydney_00006.jpeg",
+    "Sydney_00007.jpeg",
+    "Sydney_00008.jpeg",
+    "Sydney_00009.jpeg",
+    "Sydney_00010.jpeg",
+    "Sydney_00011.jpeg",
+    "Sydney_00012.jpeg",
+    "Sydney_00013.jpeg",
+    "Sydney_00014.jpeg",
+    "Sydney_00015.jpeg",
+    "Sydney_00016.jpeg",
+    "Sydney_00017.jpeg",
+    "Sydney_00018.jpeg",
+    "Sydney_00019.jpeg",
+    "Sydney_00020.jpeg",
+    "Sydney_00021.jpeg",
+    "Sydney_00022.jpeg",
+    "Sydney_00023.jpeg",
+    "Sydney_00024.jpeg",
+    "Sydney_00025.jpeg",
+    "Sydney_00026.jpeg",
+    "Sydney_00027.jpeg",
+    "Sydney_00028.jpeg"
+  ],
+  "dict": {
+    "Sydney_00001.jpeg": {
+      "type": "photo",
+      "width": 3767,
+      "height": 2825,
+      "path": "./photos/Australia/Sydney/Sydney_00001.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00001.min.jpeg"
+    },
+    "Sydney_00002.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00002.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00002.min.jpeg"
+    },
+    "Sydney_00003.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00003.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00003.min.jpeg"
+    },
+    "Sydney_00004.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00004.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00004.min.jpeg"
+    },
+    "Sydney_00005.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Sydney/Sydney_00005.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00005.min.jpeg"
+    },
+    "Sydney_00006.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00006.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00006.min.jpeg"
+    },
+    "Sydney_00007.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Sydney/Sydney_00007.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00007.min.jpeg"
+    },
+    "Sydney_00008.jpeg": {
+      "type": "photo",
+      "width": 3360,
+      "height": 1974,
+      "path": "./photos/Australia/Sydney/Sydney_00008.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00008.min.jpeg"
+    },
+    "Sydney_00009.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00009.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00009.min.jpeg"
+    },
+    "Sydney_00010.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00010.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00010.min.jpeg"
+    },
+    "Sydney_00011.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Sydney/Sydney_00011.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00011.min.jpeg"
+    },
+    "Sydney_00012.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00012.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00012.min.jpeg"
+    },
+    "Sydney_00013.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00013.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00013.min.jpeg"
+    },
+    "Sydney_00014.jpeg": {
+      "type": "photo",
+      "width": 3397,
+      "height": 2226,
+      "path": "./photos/Australia/Sydney/Sydney_00014.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00014.min.jpeg"
+    },
+    "Sydney_00015.jpeg": {
+      "type": "photo",
+      "width": 3848,
+      "height": 2886,
+      "path": "./photos/Australia/Sydney/Sydney_00015.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00015.min.jpeg"
+    },
+    "Sydney_00016.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Sydney/Sydney_00016.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00016.min.jpeg"
+    },
+    "Sydney_00017.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00017.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00017.min.jpeg"
+    },
+    "Sydney_00018.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00018.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00018.min.jpeg"
+    },
+    "Sydney_00019.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00019.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00019.min.jpeg"
+    },
+    "Sydney_00020.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00020.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00020.min.jpeg"
+    },
+    "Sydney_00021.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00021.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00021.min.jpeg"
+    },
+    "Sydney_00022.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00022.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00022.min.jpeg"
+    },
+    "Sydney_00023.jpeg": {
+      "type": "photo",
+      "width": 5242,
+      "height": 3948,
+      "path": "./photos/Australia/Sydney/Sydney_00023.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00023.min.jpeg"
+    },
+    "Sydney_00024.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00024.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00024.min.jpeg"
+    },
+    "Sydney_00025.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Sydney/Sydney_00025.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00025.min.jpeg"
+    },
+    "Sydney_00026.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00026.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00026.min.jpeg"
+    },
+    "Sydney_00027.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00027.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00027.min.jpeg"
+    },
+    "Sydney_00028.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Sydney/Sydney_00028.jpeg",
+      "min_path": "./photos/Australia/Sydney/Sydney_00028.min.jpeg"
+    }
+  }
+}

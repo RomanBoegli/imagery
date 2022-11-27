@@ -1,0 +1,110 @@
+{
+  "order": [
+    "Melbourne_00001.jpeg",
+    "Melbourne_00002.jpeg",
+    "Melbourne_00003.jpeg",
+    "Melbourne_00004.jpeg",
+    "Melbourne_00005.jpeg",
+    "Melbourne_00006.jpeg",
+    "Melbourne_00007.jpeg",
+    "Melbourne_00008.jpeg",
+    "Melbourne_00009.jpeg",
+    "Melbourne_00010.jpeg",
+    "Melbourne_00011.jpeg",
+    "Melbourne_00012.jpeg",
+    "Melbourne_00013.jpeg"
+  ],
+  "dict": {
+    "Melbourne_00001.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00001.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00001.min.jpeg"
+    },
+    "Melbourne_00002.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Melbourne/Melbourne_00002.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00002.min.jpeg"
+    },
+    "Melbourne_00003.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Melbourne/Melbourne_00003.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00003.min.jpeg"
+    },
+    "Melbourne_00004.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Australia/Melbourne/Melbourne_00004.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00004.min.jpeg"
+    },
+    "Melbourne_00005.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00005.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00005.min.jpeg"
+    },
+    "Melbourne_00006.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00006.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00006.min.jpeg"
+    },
+    "Melbourne_00007.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00007.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00007.min.jpeg"
+    },
+    "Melbourne_00008.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00008.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00008.min.jpeg"
+    },
+    "Melbourne_00009.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00009.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00009.min.jpeg"
+    },
+    "Melbourne_00010.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00010.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00010.min.jpeg"
+    },
+    "Melbourne_00011.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00011.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00011.min.jpeg"
+    },
+    "Melbourne_00012.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00012.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00012.min.jpeg"
+    },
+    "Melbourne_00013.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Melbourne/Melbourne_00013.jpeg",
+      "min_path": "./photos/Australia/Melbourne/Melbourne_00013.min.jpeg"
+    }
+  }
+}

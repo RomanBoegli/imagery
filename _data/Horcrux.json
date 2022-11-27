@@ -5,75 +5,91 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "Australia"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "Australia": {
+        "name": "Australia",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "Australia"
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "Cairns",
+            "Fraser Island",
+            "Whitsundays",
+            "Sydney",
+            "Adelaide",
+            "Melbourne"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "Cairns": {
+              "name": "Cairns",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "Hokkaido December"
+                "Australia",
+                "Cairns"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
+              "path": "./_data/albums/Australia-Cairns.json",
               "no_sub_album": true
-            }
-          }
-        }
-      },
-      "2019": {
-        "name": "2019",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "2019"
-        ],
-        "items": {
-          "order": [
-            "August"
-          ],
-          "dict": {
-            "August": {
-              "name": "August",
+            },
+            "Fraser Island": {
+              "name": "Fraser Island",
               "type": "album",
               "root": 2,
               "parents": [
-                "2019",
-                "August"
+                "Australia",
+                "Fraser Island"
               ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2019-August-Street.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
+              "path": "./_data/albums/Australia-Fraser Island.json",
+              "no_sub_album": true
+            },
+            "Whitsundays": {
+              "name": "Whitsundays",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Whitsundays"
+              ],
+              "path": "./_data/albums/Australia-Whitsundays.json",
+              "no_sub_album": true
+            },
+            "Sydney": {
+              "name": "Sydney",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Sydney"
+              ],
+              "path": "./_data/albums/Australia-Sydney.json",
+              "no_sub_album": true
+            },
+            "Adelaide": {
+              "name": "Adelaide",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Adelaide"
+              ],
+              "path": "./_data/albums/Australia-Adelaide.json",
+              "no_sub_album": true
+            },
+            "Melbourne": {
+              "name": "Melbourne",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Melbourne"
+              ],
+              "path": "./_data/albums/Australia-Melbourne.json",
+              "no_sub_album": true
             }
           }
         }
