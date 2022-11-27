@@ -5,6 +5,7 @@ import json, yaml
 REPO_DIR = Path.cwd()
 DIR_PATH = Path(__file__).parent.parent
 PHOTOS_PATH = DIR_PATH.joinpath('photos/')
+PHOTOS_ORIGINAL_PATH = DIR_PATH.joinpath('photos_originals/')
 ALBUMS_PATH = DIR_PATH.joinpath('_data/albums')
 HORCRUX_PATH = DIR_PATH.joinpath('_data/Horcrux.json')
 CONFIG_PATH = DIR_PATH.joinpath('_data/config.json')

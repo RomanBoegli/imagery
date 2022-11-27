@@ -2,6 +2,8 @@ import os, sys, json
 from album import Album
 from nest import Nest
 import conf, nest
+import shutil
+
 
 class bcolors:
     HEADER = '\033[95m'
@@ -22,6 +24,8 @@ class log():
 
 def main():
     log.info('Start process the gallery...')
+    shutil.rmtree(conf.PHOTOS_PATH)
+    shutil.copytree(conf.PHOTOS_ORIGINAL_PATH, conf.PHOTOS_PATH, dirs_exist_ok=True)
     horcrux = Album(conf.PHOTOS_PATH, 'Horcrux', 0)
     config = horcrux.format()
     log.info('Now writing the config file to ' + str(conf.HORCRUX_PATH))
