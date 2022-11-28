@@ -75,7 +75,7 @@ class Photo():
 
         x = (width - t_w) / 2
         y = height - 2 * t_h
-        draw.text((x, y), conf.copyright, font=font, fill=(255, 255, 255, 125))
+        draw.text((x, y), conf.copyright, font=font, fill=(255, 255, 255, 100))
         transparent_image = transparent_image.rotate(conf.watermark_rotate)
         signed_image = Image.alpha_composite(img, transparent_image)
         return signed_image
