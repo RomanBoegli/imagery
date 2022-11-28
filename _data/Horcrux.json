@@ -17,12 +17,12 @@
         ],
         "items": {
           "order": [
-            "Sydney",
-            "Melbourne",
-            "Adelaide",
+            "Cairns",
             "Fraser Island",
             "Whitsundays",
-            "Cairns"
+            "Sydney",
+            "Adelaide",
+            "Melbourne"
           ],
           "dict": {
             "Cairns": {
