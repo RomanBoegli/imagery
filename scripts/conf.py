@@ -29,7 +29,7 @@ SORT_PHOTOS_BY_TIME = False
 REVERSE_PHOTOS_ORDER = True
 ORDER_PHOTOS_BY_LAST_DO = 'access'
 
-KEEP_ORDER = False
+KEEP_ORDER = True
 
 Path.mkdir(ALBUMS_PATH, exist_ok=True)
 

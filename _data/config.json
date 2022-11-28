@@ -197,15 +197,15 @@
       },
       {
         "type": "photo",
-        "width": 2876,
-        "height": 1598,
+        "width": 4032,
+        "height": 3024,
         "path": "./photos/Australia/Whitsundays/Whitsundays_00003.jpeg",
         "min_path": "./photos/Australia/Whitsundays/Whitsundays_00003.min.jpeg"
       },
       {
         "type": "photo",
-        "width": 4032,
-        "height": 3024,
+        "width": 2876,
+        "height": 1598,
         "path": "./photos/Australia/Whitsundays/Whitsundays_00004.jpeg",
         "min_path": "./photos/Australia/Whitsundays/Whitsundays_00004.min.jpeg"
       },
