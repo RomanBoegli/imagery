@@ -36,7 +36,8 @@
   <body>
     {%- include header.html -%}
     <div class="gallary">
-      <h1>{{ site.name }}</h1>
+      <h1 style="display: inline-block; margin-bottom: 0px; font-size: 45px;">{{ site.name }}</h1>
+      <h2 style="display: inline-block; margin-bottom: 0px;">&nbsp; &nbsp; {{ site.author}}</h2>
       {%- assign albums = site.data.config -%}
       {%- include album.html -%}
     </div>
