@@ -204,31 +204,38 @@
       },
       {
         "type": "photo",
-        "width": 3024,
-        "height": 4032,
+        "width": 4032,
+        "height": 3024,
         "path": "./photos/Australia/Whitsundays/Whitsundays_00004.jpeg",
         "min_path": "./photos/Australia/Whitsundays/Whitsundays_00004.min.jpeg"
       },
       {
         "type": "photo",
-        "width": 4032,
-        "height": 3024,
+        "width": 3024,
+        "height": 4032,
         "path": "./photos/Australia/Whitsundays/Whitsundays_00005.jpeg",
         "min_path": "./photos/Australia/Whitsundays/Whitsundays_00005.min.jpeg"
       },
       {
         "type": "photo",
-        "width": 3030,
-        "height": 1696,
+        "width": 4032,
+        "height": 3024,
         "path": "./photos/Australia/Whitsundays/Whitsundays_00006.jpeg",
         "min_path": "./photos/Australia/Whitsundays/Whitsundays_00006.min.jpeg"
       },
       {
         "type": "photo",
-        "width": 4032,
-        "height": 3024,
+        "width": 3030,
+        "height": 1696,
         "path": "./photos/Australia/Whitsundays/Whitsundays_00007.jpeg",
         "min_path": "./photos/Australia/Whitsundays/Whitsundays_00007.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Australia/Whitsundays/Whitsundays_00008.jpeg",
+        "min_path": "./photos/Australia/Whitsundays/Whitsundays_00008.min.jpeg"
       }
     ]
   },
