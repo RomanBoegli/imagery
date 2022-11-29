@@ -17,23 +17,45 @@
         ],
         "items": {
           "order": [
-            "Cairns",
+            "Sydney",
+            "Melbourne",
+            "Adelaide",
             "Fraser Island",
             "Whitsundays",
-            "Sydney",
-            "Adelaide",
-            "Melbourne"
+            "Cairns"
           ],
           "dict": {
-            "Cairns": {
-              "name": "Cairns",
+            "Sydney": {
+              "name": "Sydney",
               "type": "album",
               "root": 2,
               "parents": [
                 "Australia",
-                "Cairns"
+                "Sydney"
               ],
-              "path": "./_data/albums/Australia-Cairns.json",
+              "path": "./_data/albums/Australia-Sydney.json",
+              "no_sub_album": true
+            },
+            "Melbourne": {
+              "name": "Melbourne",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Melbourne"
+              ],
+              "path": "./_data/albums/Australia-Melbourne.json",
+              "no_sub_album": true
+            },
+            "Adelaide": {
+              "name": "Adelaide",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Adelaide"
+              ],
+              "path": "./_data/albums/Australia-Adelaide.json",
               "no_sub_album": true
             },
             "Fraser Island": {
@@ -58,37 +80,15 @@
               "path": "./_data/albums/Australia-Whitsundays.json",
               "no_sub_album": true
             },
-            "Sydney": {
-              "name": "Sydney",
+            "Cairns": {
+              "name": "Cairns",
               "type": "album",
               "root": 2,
               "parents": [
                 "Australia",
-                "Sydney"
+                "Cairns"
               ],
-              "path": "./_data/albums/Australia-Sydney.json",
-              "no_sub_album": true
-            },
-            "Adelaide": {
-              "name": "Adelaide",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Australia",
-                "Adelaide"
-              ],
-              "path": "./_data/albums/Australia-Adelaide.json",
-              "no_sub_album": true
-            },
-            "Melbourne": {
-              "name": "Melbourne",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Australia",
-                "Melbourne"
-              ],
-              "path": "./_data/albums/Australia-Melbourne.json",
+              "path": "./_data/albums/Australia-Cairns.json",
               "no_sub_album": true
             }
           }

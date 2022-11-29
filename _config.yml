@@ -17,8 +17,8 @@ process:
   keep_order: True
   album:
     sort_by_time: True # False: sort by filename
-    order_by: create # access, modify
-    reverse: True
+    order_by: modify # access, modify
+    reverse: False
   photo:
     sort_by_time: False
     order_by: modify
