@@ -5,7 +5,8 @@
   "parents": [],
   "items": {
     "order": [
-      "Australia"
+      "Australia",
+      "Indonesia"
     ],
     "dict": {
       "Australia": {
@@ -89,6 +90,44 @@
                 "Cairns"
               ],
               "path": "./_data/albums/Australia-Cairns.json",
+              "no_sub_album": true
+            }
+          }
+        }
+      },
+      "Indonesia": {
+        "name": "Indonesia",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Indonesia"
+        ],
+        "items": {
+          "order": [
+            "Nusa Penida",
+            "Bali"
+          ],
+          "dict": {
+            "Nusa Penida": {
+              "name": "Nusa Penida",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Indonesia",
+                "Nusa Penida"
+              ],
+              "path": "./_data/albums/Indonesia-Nusa Penida.json",
+              "no_sub_album": true
+            },
+            "Bali": {
+              "name": "Bali",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Indonesia",
+                "Bali"
+              ],
+              "path": "./_data/albums/Indonesia-Bali.json",
               "no_sub_album": true
             }
           }

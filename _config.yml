@@ -2,11 +2,11 @@ name: Imagery
 author: by Roman Bögli
 icon: 📸
 
-frame_padding: 1px
+frame_padding: 0px
 
 column: 3
-column_gap: 20px
-row_gap: 20px
+column_gap: 50px
+row_gap: 50px
 
 small_screen:
   column: 2
