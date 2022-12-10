@@ -778,5 +778,64 @@
         "min_path": "./photos/Indonesia/Bali/Bali_00009.min.jpeg"
       }
     ]
+  },
+  {
+    "name": "Java",
+    "type": "photos",
+    "parents": [
+      "Indonesia",
+      "Java"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Indonesia/Java/1.jpeg",
+        "min_path": "./photos/Indonesia/Java/1.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3897,
+        "height": 2872,
+        "path": "./photos/Indonesia/Java/2.jpeg",
+        "min_path": "./photos/Indonesia/Java/2.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2962,
+        "height": 3950,
+        "path": "./photos/Indonesia/Java/3.jpeg",
+        "min_path": "./photos/Indonesia/Java/3.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3982,
+        "height": 2986,
+        "path": "./photos/Indonesia/Java/4.jpeg",
+        "min_path": "./photos/Indonesia/Java/4.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2805,
+        "height": 3740,
+        "path": "./photos/Indonesia/Java/5.jpeg",
+        "min_path": "./photos/Indonesia/Java/5.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3942,
+        "height": 2956,
+        "path": "./photos/Indonesia/Java/6.jpeg",
+        "min_path": "./photos/Indonesia/Java/6.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 7452,
+        "height": 3932,
+        "path": "./photos/Indonesia/Java/7.jpeg",
+        "min_path": "./photos/Indonesia/Java/7.min.jpeg"
+      }
+    ]
   }
 ]

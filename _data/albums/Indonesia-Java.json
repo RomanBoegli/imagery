@@ -1,0 +1,62 @@
+{
+  "order": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg",
+    "6.jpeg",
+    "7.jpeg"
+  ],
+  "dict": {
+    "1.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Indonesia/Java/1.jpeg",
+      "min_path": "./photos/Indonesia/Java/1.min.jpeg"
+    },
+    "2.jpeg": {
+      "type": "photo",
+      "width": 3897,
+      "height": 2872,
+      "path": "./photos/Indonesia/Java/2.jpeg",
+      "min_path": "./photos/Indonesia/Java/2.min.jpeg"
+    },
+    "3.jpeg": {
+      "type": "photo",
+      "width": 2962,
+      "height": 3950,
+      "path": "./photos/Indonesia/Java/3.jpeg",
+      "min_path": "./photos/Indonesia/Java/3.min.jpeg"
+    },
+    "4.jpeg": {
+      "type": "photo",
+      "width": 3982,
+      "height": 2986,
+      "path": "./photos/Indonesia/Java/4.jpeg",
+      "min_path": "./photos/Indonesia/Java/4.min.jpeg"
+    },
+    "5.jpeg": {
+      "type": "photo",
+      "width": 2805,
+      "height": 3740,
+      "path": "./photos/Indonesia/Java/5.jpeg",
+      "min_path": "./photos/Indonesia/Java/5.min.jpeg"
+    },
+    "6.jpeg": {
+      "type": "photo",
+      "width": 3942,
+      "height": 2956,
+      "path": "./photos/Indonesia/Java/6.jpeg",
+      "min_path": "./photos/Indonesia/Java/6.min.jpeg"
+    },
+    "7.jpeg": {
+      "type": "photo",
+      "width": 7452,
+      "height": 3932,
+      "path": "./photos/Indonesia/Java/7.jpeg",
+      "min_path": "./photos/Indonesia/Java/7.min.jpeg"
+    }
+  }
+}

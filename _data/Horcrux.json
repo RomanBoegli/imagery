@@ -105,7 +105,8 @@
         "items": {
           "order": [
             "Nusa Penida",
-            "Bali"
+            "Bali",
+            "Java"
           ],
           "dict": {
             "Nusa Penida": {
@@ -128,6 +129,17 @@
                 "Bali"
               ],
               "path": "./_data/albums/Indonesia-Bali.json",
+              "no_sub_album": true
+            },
+            "Java": {
+              "name": "Java",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Indonesia",
+                "Java"
+              ],
+              "path": "./_data/albums/Indonesia-Java.json",
               "no_sub_album": true
             }
           }
