@@ -837,5 +837,182 @@
         "min_path": "./photos/Indonesia/Java/7.min.jpeg"
       }
     ]
+  },
+  {
+    "name": "Saigon",
+    "type": "photos",
+    "parents": [
+      "Vietnam",
+      "Saigon"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2988,
+        "height": 3984,
+        "path": "./photos/Vietnam/Saigon/Saigon_00001.jpeg",
+        "min_path": "./photos/Vietnam/Saigon/Saigon_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Vietnam/Saigon/Saigon_00002.jpeg",
+        "min_path": "./photos/Vietnam/Saigon/Saigon_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3809,
+        "height": 2856,
+        "path": "./photos/Vietnam/Saigon/Saigon_00003.jpeg",
+        "min_path": "./photos/Vietnam/Saigon/Saigon_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Saigon/Saigon_00004.jpeg",
+        "min_path": "./photos/Vietnam/Saigon/Saigon_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Saigon/Saigon_00005.jpeg",
+        "min_path": "./photos/Vietnam/Saigon/Saigon_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Vietnam/Saigon/Saigon_00006.jpeg",
+        "min_path": "./photos/Vietnam/Saigon/Saigon_00006.min.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Da Lat",
+    "type": "photos",
+    "parents": [
+      "Vietnam",
+      "Da Lat"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00001.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00002.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00003.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00004.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00005.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00006.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00006.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00007.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00007.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2884,
+        "height": 3878,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00008.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00008.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Lat/DaLat_00009.jpeg",
+        "min_path": "./photos/Vietnam/Da Lat/DaLat_00009.min.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Da Nang",
+    "type": "photos",
+    "parents": [
+      "Vietnam",
+      "Da Nang"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Nang/DaNang_00001.jpeg",
+        "min_path": "./photos/Vietnam/Da Nang/DaNang_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3666,
+        "height": 2616,
+        "path": "./photos/Vietnam/Da Nang/DaNang_00002.jpeg",
+        "min_path": "./photos/Vietnam/Da Nang/DaNang_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Nang/DaNang_00003.jpeg",
+        "min_path": "./photos/Vietnam/Da Nang/DaNang_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Nang/DaNang_00004.jpeg",
+        "min_path": "./photos/Vietnam/Da Nang/DaNang_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Nang/DaNang_00005.jpeg",
+        "min_path": "./photos/Vietnam/Da Nang/DaNang_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Da Nang/DaNang_00006.jpeg",
+        "min_path": "./photos/Vietnam/Da Nang/DaNang_00006.min.jpeg"
+      }
+    ]
   }
 ]

@@ -1,0 +1,54 @@
+{
+  "order": [
+    "Saigon_00001.jpeg",
+    "Saigon_00002.jpeg",
+    "Saigon_00003.jpeg",
+    "Saigon_00004.jpeg",
+    "Saigon_00005.jpeg",
+    "Saigon_00006.jpeg"
+  ],
+  "dict": {
+    "Saigon_00001.jpeg": {
+      "type": "photo",
+      "width": 2988,
+      "height": 3984,
+      "path": "./photos/Vietnam/Saigon/Saigon_00001.jpeg",
+      "min_path": "./photos/Vietnam/Saigon/Saigon_00001.min.jpeg"
+    },
+    "Saigon_00002.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Vietnam/Saigon/Saigon_00002.jpeg",
+      "min_path": "./photos/Vietnam/Saigon/Saigon_00002.min.jpeg"
+    },
+    "Saigon_00003.jpeg": {
+      "type": "photo",
+      "width": 3809,
+      "height": 2856,
+      "path": "./photos/Vietnam/Saigon/Saigon_00003.jpeg",
+      "min_path": "./photos/Vietnam/Saigon/Saigon_00003.min.jpeg"
+    },
+    "Saigon_00004.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Saigon/Saigon_00004.jpeg",
+      "min_path": "./photos/Vietnam/Saigon/Saigon_00004.min.jpeg"
+    },
+    "Saigon_00005.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Saigon/Saigon_00005.jpeg",
+      "min_path": "./photos/Vietnam/Saigon/Saigon_00005.min.jpeg"
+    },
+    "Saigon_00006.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Vietnam/Saigon/Saigon_00006.jpeg",
+      "min_path": "./photos/Vietnam/Saigon/Saigon_00006.min.jpeg"
+    }
+  }
+}

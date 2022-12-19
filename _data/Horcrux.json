@@ -6,7 +6,8 @@
   "items": {
     "order": [
       "Australia",
-      "Indonesia"
+      "Indonesia",
+      "Vietnam"
     ],
     "dict": {
       "Australia": {
@@ -140,6 +141,56 @@
                 "Java"
               ],
               "path": "./_data/albums/Indonesia-Java.json",
+              "no_sub_album": true
+            }
+          }
+        }
+      },
+      "Vietnam": {
+        "name": "Vietnam",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Vietnam"
+        ],
+        "items": {
+          "order": [
+            "Saigon",
+            "Da Lat",
+            "Da Nang"
+          ],
+          "dict": {
+            "Saigon": {
+              "name": "Saigon",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Vietnam",
+                "Saigon"
+              ],
+              "path": "./_data/albums/Vietnam-Saigon.json",
+              "no_sub_album": true
+            },
+            "Da Lat": {
+              "name": "Da Lat",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Vietnam",
+                "Da Lat"
+              ],
+              "path": "./_data/albums/Vietnam-Da Lat.json",
+              "no_sub_album": true
+            },
+            "Da Nang": {
+              "name": "Da Nang",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Vietnam",
+                "Da Nang"
+              ],
+              "path": "./_data/albums/Vietnam-Da Nang.json",
               "no_sub_album": true
             }
           }
