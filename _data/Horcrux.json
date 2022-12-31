@@ -19,36 +19,14 @@
         ],
         "items": {
           "order": [
-            "Sydney",
-            "Melbourne",
             "Adelaide",
+            "Cairns",
             "Fraser Island",
-            "Whitsundays",
-            "Cairns"
+            "Melbourne",
+            "Sydney",
+            "Whitsundays"
           ],
           "dict": {
-            "Sydney": {
-              "name": "Sydney",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Australia",
-                "Sydney"
-              ],
-              "path": "./_data/albums/Australia-Sydney.json",
-              "no_sub_album": true
-            },
-            "Melbourne": {
-              "name": "Melbourne",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Australia",
-                "Melbourne"
-              ],
-              "path": "./_data/albums/Australia-Melbourne.json",
-              "no_sub_album": true
-            },
             "Adelaide": {
               "name": "Adelaide",
               "type": "album",
@@ -58,6 +36,17 @@
                 "Adelaide"
               ],
               "path": "./_data/albums/Australia-Adelaide.json",
+              "no_sub_album": true
+            },
+            "Cairns": {
+              "name": "Cairns",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Cairns"
+              ],
+              "path": "./_data/albums/Australia-Cairns.json",
               "no_sub_album": true
             },
             "Fraser Island": {
@@ -71,6 +60,28 @@
               "path": "./_data/albums/Australia-Fraser Island.json",
               "no_sub_album": true
             },
+            "Melbourne": {
+              "name": "Melbourne",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Melbourne"
+              ],
+              "path": "./_data/albums/Australia-Melbourne.json",
+              "no_sub_album": true
+            },
+            "Sydney": {
+              "name": "Sydney",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Sydney"
+              ],
+              "path": "./_data/albums/Australia-Sydney.json",
+              "no_sub_album": true
+            },
             "Whitsundays": {
               "name": "Whitsundays",
               "type": "album",
@@ -80,17 +91,6 @@
                 "Whitsundays"
               ],
               "path": "./_data/albums/Australia-Whitsundays.json",
-              "no_sub_album": true
-            },
-            "Cairns": {
-              "name": "Cairns",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Australia",
-                "Cairns"
-              ],
-              "path": "./_data/albums/Australia-Cairns.json",
               "no_sub_album": true
             }
           }
@@ -105,22 +105,11 @@
         ],
         "items": {
           "order": [
-            "Nusa Penida",
             "Bali",
-            "Java"
+            "Java",
+            "Nusa Penida"
           ],
           "dict": {
-            "Nusa Penida": {
-              "name": "Nusa Penida",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Indonesia",
-                "Nusa Penida"
-              ],
-              "path": "./_data/albums/Indonesia-Nusa Penida.json",
-              "no_sub_album": true
-            },
             "Bali": {
               "name": "Bali",
               "type": "album",
@@ -142,6 +131,17 @@
               ],
               "path": "./_data/albums/Indonesia-Java.json",
               "no_sub_album": true
+            },
+            "Nusa Penida": {
+              "name": "Nusa Penida",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Indonesia",
+                "Nusa Penida"
+              ],
+              "path": "./_data/albums/Indonesia-Nusa Penida.json",
+              "no_sub_album": true
             }
           }
         }
@@ -155,22 +155,12 @@
         ],
         "items": {
           "order": [
-            "Saigon",
             "Da Lat",
-            "Da Nang"
+            "Saigon",
+            "Da Nang",
+            "Ninh Binh"
           ],
           "dict": {
-            "Saigon": {
-              "name": "Saigon",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Vietnam",
-                "Saigon"
-              ],
-              "path": "./_data/albums/Vietnam-Saigon.json",
-              "no_sub_album": true
-            },
             "Da Lat": {
               "name": "Da Lat",
               "type": "album",
@@ -182,6 +172,17 @@
               "path": "./_data/albums/Vietnam-Da Lat.json",
               "no_sub_album": true
             },
+            "Saigon": {
+              "name": "Saigon",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Vietnam",
+                "Saigon"
+              ],
+              "path": "./_data/albums/Vietnam-Saigon.json",
+              "no_sub_album": true
+            },
             "Da Nang": {
               "name": "Da Nang",
               "type": "album",
@@ -191,6 +192,17 @@
                 "Da Nang"
               ],
               "path": "./_data/albums/Vietnam-Da Nang.json",
+              "no_sub_album": true
+            },
+            "Ninh Binh": {
+              "name": "Ninh Binh",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Vietnam",
+                "Ninh Binh"
+              ],
+              "path": "./_data/albums/Vietnam-Ninh Binh.json",
               "no_sub_album": true
             }
           }

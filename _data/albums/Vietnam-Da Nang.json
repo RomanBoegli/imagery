@@ -5,7 +5,9 @@
     "DaNang_00003.jpeg",
     "DaNang_00004.jpeg",
     "DaNang_00005.jpeg",
-    "DaNang_00006.jpeg"
+    "DaNang_00006.jpeg",
+    "DaNang_00007.jpeg",
+    "DaNang_00008.jpeg"
   ],
   "dict": {
     "DaNang_00001.jpeg": {
@@ -49,6 +51,20 @@
       "height": 3024,
       "path": "./photos/Vietnam/Da Nang/DaNang_00006.jpeg",
       "min_path": "./photos/Vietnam/Da Nang/DaNang_00006.min.jpeg"
+    },
+    "DaNang_00007.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Da Nang/DaNang_00007.jpeg",
+      "min_path": "./photos/Vietnam/Da Nang/DaNang_00007.min.jpeg"
+    },
+    "DaNang_00008.jpeg": {
+      "type": "photo",
+      "width": 2838,
+      "height": 3784,
+      "path": "./photos/Vietnam/Da Nang/DaNang_00008.jpeg",
+      "min_path": "./photos/Vietnam/Da Nang/DaNang_00008.min.jpeg"
     }
   }
 }
