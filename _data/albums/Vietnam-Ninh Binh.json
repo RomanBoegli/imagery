@@ -1,0 +1,102 @@
+{
+  "order": [
+    "NinhBinh_00001.jpeg",
+    "NinhBinh_00002.jpeg",
+    "NinhBinh_00003.jpeg",
+    "NinhBinh_00004.jpeg",
+    "NinhBinh_00005.jpeg",
+    "NinhBinh_00006.jpeg",
+    "NinhBinh_00007.jpeg",
+    "NinhBinh_00008.jpeg",
+    "NinhBinh_00009.jpeg",
+    "NinhBinh_00010.jpeg",
+    "NinhBinh_00011.jpeg",
+    "NinhBinh_00012.jpeg"
+  ],
+  "dict": {
+    "NinhBinh_00001.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00001.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00001.min.jpeg"
+    },
+    "NinhBinh_00002.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00002.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00002.min.jpeg"
+    },
+    "NinhBinh_00003.jpeg": {
+      "type": "photo",
+      "width": 3830,
+      "height": 2872,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00003.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00003.min.jpeg"
+    },
+    "NinhBinh_00004.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00004.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00004.min.jpeg"
+    },
+    "NinhBinh_00005.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00005.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00005.min.jpeg"
+    },
+    "NinhBinh_00006.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00006.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00006.min.jpeg"
+    },
+    "NinhBinh_00007.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00007.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00007.min.jpeg"
+    },
+    "NinhBinh_00008.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00008.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00008.min.jpeg"
+    },
+    "NinhBinh_00009.jpeg": {
+      "type": "photo",
+      "width": 3814,
+      "height": 2860,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00009.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00009.min.jpeg"
+    },
+    "NinhBinh_00010.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00010.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00010.min.jpeg"
+    },
+    "NinhBinh_00011.jpeg": {
+      "type": "photo",
+      "width": 3995,
+      "height": 2996,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00011.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00011.min.jpeg"
+    },
+    "NinhBinh_00012.jpeg": {
+      "type": "photo",
+      "width": 3915,
+      "height": 2936,
+      "path": "./photos/Vietnam/Ninh Binh/NinhBinh_00012.jpeg",
+      "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00012.min.jpeg"
+    }
+  }
+}
