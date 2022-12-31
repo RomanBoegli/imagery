@@ -158,7 +158,8 @@
             "Da Lat",
             "Saigon",
             "Da Nang",
-            "Ninh Binh"
+            "Ninh Binh",
+            "Phu Quoc"
           ],
           "dict": {
             "Da Lat": {
@@ -203,6 +204,17 @@
                 "Ninh Binh"
               ],
               "path": "./_data/albums/Vietnam-Ninh Binh.json",
+              "no_sub_album": true
+            },
+            "Phu Quoc": {
+              "name": "Phu Quoc",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Vietnam",
+                "Phu Quoc"
+              ],
+              "path": "./_data/albums/Vietnam-Phu Quoc.json",
               "no_sub_album": true
             }
           }

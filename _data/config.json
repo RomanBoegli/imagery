@@ -1122,5 +1122,78 @@
         "min_path": "./photos/Vietnam/Ninh Binh/NinhBinh_00012.min.jpeg"
       }
     ]
+  },
+  {
+    "name": "Phu Quoc",
+    "type": "photos",
+    "parents": [
+      "Vietnam",
+      "Phu Quoc"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00001.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00002.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3920,
+        "height": 2940,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00003.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3976,
+        "height": 2982,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00004.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00005.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00006.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00006.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00007.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00007.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00008.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00008.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00009.jpeg",
+        "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00009.min.jpeg"
+      }
+    ]
   }
 ]
