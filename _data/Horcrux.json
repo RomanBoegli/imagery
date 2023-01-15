@@ -230,7 +230,8 @@
         ],
         "items": {
           "order": [
-            "Chiang Mai"
+            "Chiang Mai",
+            "Koh Tao"
           ],
           "dict": {
             "Chiang Mai": {
@@ -242,6 +243,17 @@
                 "Chiang Mai"
               ],
               "path": "./_data/albums/Thailand-Chiang Mai.json",
+              "no_sub_album": true
+            },
+            "Koh Tao": {
+              "name": "Koh Tao",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Thailand",
+                "Koh Tao"
+              ],
+              "path": "./_data/albums/Thailand-Koh Tao.json",
               "no_sub_album": true
             }
           }

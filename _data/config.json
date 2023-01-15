@@ -1275,5 +1275,71 @@
         "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00010.min.jpeg"
       }
     ]
+  },
+  {
+    "name": "Koh Tao",
+    "type": "photos",
+    "parents": [
+      "Thailand",
+      "Koh Tao"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00001.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2326,
+        "height": 1306,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00002.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2342,
+        "height": 1306,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00003.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00004.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00005.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3010,
+        "height": 1676,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00006.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00006.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00007.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00007.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Koh Tao/KohTao_00008.jpeg",
+        "min_path": "./photos/Thailand/Koh Tao/KohTao_00008.min.jpeg"
+      }
+    ]
   }
 ]
