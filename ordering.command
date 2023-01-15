@@ -35,8 +35,6 @@ SetFile -mt '12/22/2022 23:59:00' ./photos_originals/Vietnam/Ninh\ Binh
 SetFile -mt '12/27/2022 23:59:00' ./photos_originals/Vietnam/Phu\ Quoc/*
 SetFile -mt '12/27/2022 23:59:00' ./photos_originals/Vietnam/Phu\ Quoc
 
-
-
-
-
+SetFile -mt '01/06/2023 23:59:00' ./photos_originals/Thailand/Chiang\ Mai/*
+SetFile -mt '01/06/2023 23:59:00' ./photos_originals/Thailand/Chiang\ Mai
 
