@@ -1195,5 +1195,85 @@
         "min_path": "./photos/Vietnam/Phu Quoc/PhuQuoc_00009.min.jpeg"
       }
     ]
+  },
+  {
+    "name": "Chiang Mai",
+    "type": "photos",
+    "parents": [
+      "Thailand",
+      "Chiang Mai"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00001.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3960,
+        "height": 2970,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00002.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00003.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00004.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00005.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00006.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00006.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3814,
+        "height": 2860,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00007.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00007.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00008.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00008.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00009.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00009.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Chiang Mai/ChiangMai_00010.jpeg",
+        "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00010.min.jpeg"
+      }
+    ]
   }
 ]

@@ -7,7 +7,8 @@
     "order": [
       "Australia",
       "Indonesia",
-      "Vietnam"
+      "Vietnam",
+      "Thailand"
     ],
     "dict": {
       "Australia": {
@@ -215,6 +216,32 @@
                 "Phu Quoc"
               ],
               "path": "./_data/albums/Vietnam-Phu Quoc.json",
+              "no_sub_album": true
+            }
+          }
+        }
+      },
+      "Thailand": {
+        "name": "Thailand",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Thailand"
+        ],
+        "items": {
+          "order": [
+            "Chiang Mai"
+          ],
+          "dict": {
+            "Chiang Mai": {
+              "name": "Chiang Mai",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Thailand",
+                "Chiang Mai"
+              ],
+              "path": "./_data/albums/Thailand-Chiang Mai.json",
               "no_sub_album": true
             }
           }

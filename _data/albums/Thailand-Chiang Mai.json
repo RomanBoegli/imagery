@@ -1,0 +1,86 @@
+{
+  "order": [
+    "ChiangMai_00001.jpeg",
+    "ChiangMai_00002.jpeg",
+    "ChiangMai_00003.jpeg",
+    "ChiangMai_00004.jpeg",
+    "ChiangMai_00005.jpeg",
+    "ChiangMai_00006.jpeg",
+    "ChiangMai_00007.jpeg",
+    "ChiangMai_00008.jpeg",
+    "ChiangMai_00009.jpeg",
+    "ChiangMai_00010.jpeg"
+  ],
+  "dict": {
+    "ChiangMai_00001.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00001.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00001.min.jpeg"
+    },
+    "ChiangMai_00002.jpeg": {
+      "type": "photo",
+      "width": 3960,
+      "height": 2970,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00002.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00002.min.jpeg"
+    },
+    "ChiangMai_00003.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00003.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00003.min.jpeg"
+    },
+    "ChiangMai_00004.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00004.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00004.min.jpeg"
+    },
+    "ChiangMai_00005.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00005.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00005.min.jpeg"
+    },
+    "ChiangMai_00006.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00006.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00006.min.jpeg"
+    },
+    "ChiangMai_00007.jpeg": {
+      "type": "photo",
+      "width": 3814,
+      "height": 2860,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00007.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00007.min.jpeg"
+    },
+    "ChiangMai_00008.jpeg": {
+      "type": "photo",
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00008.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00008.min.jpeg"
+    },
+    "ChiangMai_00009.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00009.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00009.min.jpeg"
+    },
+    "ChiangMai_00010.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Thailand/Chiang Mai/ChiangMai_00010.jpeg",
+      "min_path": "./photos/Thailand/Chiang Mai/ChiangMai_00010.min.jpeg"
+    }
+  }
+}
