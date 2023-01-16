@@ -8,7 +8,8 @@
     "Cairns_00006.jpeg",
     "Cairns_00007.jpeg",
     "Cairns_00008.jpeg",
-    "Cairns_00009.jpeg"
+    "Cairns_00009.jpeg",
+    "Cairns_00010.jpeg"
   ],
   "dict": {
     "Cairns_00001.jpeg": {
@@ -41,8 +42,8 @@
     },
     "Cairns_00005.jpeg": {
       "type": "photo",
-      "width": 3024,
-      "height": 4032,
+      "width": 4032,
+      "height": 3024,
       "path": "./photos/Australia/Cairns/Cairns_00005.jpeg",
       "min_path": "./photos/Australia/Cairns/Cairns_00005.min.jpeg"
     },
@@ -55,24 +56,31 @@
     },
     "Cairns_00007.jpeg": {
       "type": "photo",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "path": "./photos/Australia/Cairns/Cairns_00007.jpeg",
       "min_path": "./photos/Australia/Cairns/Cairns_00007.min.jpeg"
     },
     "Cairns_00008.jpeg": {
       "type": "photo",
-      "width": 3024,
-      "height": 4032,
+      "width": 4032,
+      "height": 3024,
       "path": "./photos/Australia/Cairns/Cairns_00008.jpeg",
       "min_path": "./photos/Australia/Cairns/Cairns_00008.min.jpeg"
     },
     "Cairns_00009.jpeg": {
       "type": "photo",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "path": "./photos/Australia/Cairns/Cairns_00009.jpeg",
       "min_path": "./photos/Australia/Cairns/Cairns_00009.min.jpeg"
+    },
+    "Cairns_00010.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Cairns/Cairns_00010.jpeg",
+      "min_path": "./photos/Australia/Cairns/Cairns_00010.min.jpeg"
     }
   }
 }

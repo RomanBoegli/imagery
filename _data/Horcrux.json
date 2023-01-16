@@ -23,9 +23,9 @@
             "Sydney",
             "Melbourne",
             "Adelaide",
-            "Fraser Island",
             "Whitsundays",
-            "Cairns"
+            "Cairns",
+            "Fraser Island"
           ],
           "dict": {
             "Sydney": {
@@ -61,17 +61,6 @@
               "path": "./_data/albums/Australia-Adelaide.json",
               "no_sub_album": true
             },
-            "Fraser Island": {
-              "name": "Fraser Island",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Australia",
-                "Fraser Island"
-              ],
-              "path": "./_data/albums/Australia-Fraser Island.json",
-              "no_sub_album": true
-            },
             "Whitsundays": {
               "name": "Whitsundays",
               "type": "album",
@@ -92,6 +81,17 @@
                 "Cairns"
               ],
               "path": "./_data/albums/Australia-Cairns.json",
+              "no_sub_album": true
+            },
+            "Fraser Island": {
+              "name": "Fraser Island",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Australia",
+                "Fraser Island"
+              ],
+              "path": "./_data/albums/Australia-Fraser Island.json",
               "no_sub_album": true
             }
           }

@@ -12,7 +12,8 @@
     "FraserIsland_00010.jpeg",
     "FraserIsland_00011.jpeg",
     "FraserIsland_00012.jpeg",
-    "FraserIsland_00013.jpeg"
+    "FraserIsland_00013.jpeg",
+    "FraserIsland_00014.jpeg"
   ],
   "dict": {
     "FraserIsland_00001.jpeg": {
@@ -105,6 +106,13 @@
       "height": 3024,
       "path": "./photos/Australia/Fraser Island/FraserIsland_00013.jpeg",
       "min_path": "./photos/Australia/Fraser Island/FraserIsland_00013.min.jpeg"
+    },
+    "FraserIsland_00014.jpeg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Australia/Fraser Island/FraserIsland_00014.jpeg",
+      "min_path": "./photos/Australia/Fraser Island/FraserIsland_00014.min.jpeg"
     }
   }
 }
