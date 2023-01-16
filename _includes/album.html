@@ -2,7 +2,11 @@
   {%- if album.type == 'photos' -%}
       {%- assign strong_name = album.name | prepend: '<strong>' | append: '</strong>' }} -%}
       {{ search.terms }}
-      <h2 class="head head-{{ album.root }}">{{ album.parents | reverse | join: ' · ' | replace: album.name, strong_name | upcase}}</h2>
+      <div>
+        <h2 style="display:inline-block" id="{{ album.parents | join: '_' | replace: ' ', ''}}" class="head head-{{ album.root }}">{{ album.parents | reverse | join: ' · ' | replace: album.name, strong_name | upcase}}</h2>
+        <a style="display:inline-block" href="#{{ album.parents | join: '_' | replace: ' ', ''}}">&nbsp;&nbsp;&nbsp;&nbsp;🔗</a>
+      </div>
+      
       <div class="photos">
         {%- for photo in album.list -%}
           <figure class="photo-figure" itemscope>
