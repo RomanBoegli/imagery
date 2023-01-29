@@ -39,3 +39,7 @@ SetFile -mt '01/06/2023 23:59:00' ./photos_originals/Thailand/Chiang\ Mai/*
 SetFile -mt '01/06/2023 23:59:00' ./photos_originals/Thailand/Chiang\ Mai
 SetFile -mt '01/14/2023 23:59:00' ./photos_originals/Thailand/Koh\ Tao/*
 SetFile -mt '01/14/2023 23:59:00' ./photos_originals/Thailand/Koh\ Tao
+SetFile -mt '01/22/2023 23:59:00' ./photos_originals/Thailand/Koh\ Samui/*
+SetFile -mt '01/22/2023 23:59:00' ./photos_originals/Thailand/Koh\ Samui
+SetFile -mt '01/26/2023 23:59:00' ./photos_originals/Thailand/Bangkok/*
+SetFile -mt '01/26/2023 23:59:00' ./photos_originals/Thailand/Bangkok
