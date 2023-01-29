@@ -1355,5 +1355,130 @@
         "min_path": "./photos/Thailand/Koh Tao/KohTao_00008.min.jpeg"
       }
     ]
+  },
+  {
+    "name": "Koh Samui",
+    "type": "photos",
+    "parents": [
+      "Thailand",
+      "Koh Samui"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3862,
+        "height": 2896,
+        "path": "./photos/Thailand/Koh Samui/KohSamui_00000.jpeg",
+        "min_path": "./photos/Thailand/Koh Samui/KohSamui_00000.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Koh Samui/KohSamui_00001.jpeg",
+        "min_path": "./photos/Thailand/Koh Samui/KohSamui_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Koh Samui/KohSamui_00002.jpeg",
+        "min_path": "./photos/Thailand/Koh Samui/KohSamui_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Koh Samui/KohSamui_00003.jpeg",
+        "min_path": "./photos/Thailand/Koh Samui/KohSamui_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Koh Samui/KohSamui_00004.jpeg",
+        "min_path": "./photos/Thailand/Koh Samui/KohSamui_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Koh Samui/KohSamui_00005.jpeg",
+        "min_path": "./photos/Thailand/Koh Samui/KohSamui_00005.min.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Bangkok",
+    "type": "photos",
+    "parents": [
+      "Thailand",
+      "Bangkok"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3995,
+        "height": 2996,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00001.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00001.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3944,
+        "height": 2958,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00002.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00002.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00003.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00003.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00004.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00004.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 6270,
+        "height": 3511,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00005.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3880,
+        "height": 2910,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00006.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00006.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2998,
+        "height": 3998,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00007.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00007.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2968,
+        "height": 3958,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00008.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00008.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Thailand/Bangkok/Bangkok_00009.jpeg",
+        "min_path": "./photos/Thailand/Bangkok/Bangkok_00009.min.jpeg"
+      }
+    ]
   }
 ]

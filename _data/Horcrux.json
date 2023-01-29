@@ -231,7 +231,9 @@
         "items": {
           "order": [
             "Chiang Mai",
-            "Koh Tao"
+            "Koh Tao",
+            "Koh Samui",
+            "Bangkok"
           ],
           "dict": {
             "Chiang Mai": {
@@ -254,6 +256,28 @@
                 "Koh Tao"
               ],
               "path": "./_data/albums/Thailand-Koh Tao.json",
+              "no_sub_album": true
+            },
+            "Koh Samui": {
+              "name": "Koh Samui",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Thailand",
+                "Koh Samui"
+              ],
+              "path": "./_data/albums/Thailand-Koh Samui.json",
+              "no_sub_album": true
+            },
+            "Bangkok": {
+              "name": "Bangkok",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Thailand",
+                "Bangkok"
+              ],
+              "path": "./_data/albums/Thailand-Bangkok.json",
               "no_sub_album": true
             }
           }
